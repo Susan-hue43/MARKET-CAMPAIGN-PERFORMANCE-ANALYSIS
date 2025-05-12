@@ -24,8 +24,6 @@ By conducting this analysis, we aim to:
 
 ❖ **ROI Calculation**: Compute the return on investment (ROI) for each campaign.
 
-❖ **Time Series Analysis**: Track performance trends over time to identify patterns or seasonal effects.
-
 ---
 
 ## **Data Description**
@@ -50,4 +48,13 @@ The dataset consists of **19 columns** and **9,900 rows**, capturing daily campa
 
 ---
 
+## Table of Contents
+
+1. [Campaign Performance Analysis](docs/1-campaign-performance-analysis.md)  
+2. [Channel Performance Analysis](docs/2-channel-performance-analysis.md)  
+3. [Geographical Analysis](docs/3-geographical-analysis.md)  
+4. [Device Performance Analysis](docs/4-device-performance-analysis.md)  
+5. [Ad-Level Performance Analysis](docs/5-ad-level-performance-analysis.md)  
+6. [Strategic Recommendations for Future Campaigns](7docs/-strategic-recommendations-for-future-campaigns.md)  
+7. [Key Takeaways for Marketing Optimization](docs/8-key-takeaways-for-marketing-optimization.md)
 
