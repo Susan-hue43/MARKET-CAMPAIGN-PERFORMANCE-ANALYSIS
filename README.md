@@ -50,7 +50,7 @@ The dataset consists of **19 columns** and **9,900 rows**, capturing daily campa
 
 ## Table of Contents
 
-1. [Campaign Performance Analysis](docs/1.campaign-performance-analysis.md)  
+1. [Campaign Performance Analysis](docs/1-campaign-performance-analysis.md)  
 2. [Channel Performance Analysis](docs/2-channel-performance-analysis.md)  
 3. [Geographical Analysis](docs/3-geographical-analysis.md)  
 4. [Device Performance Analysis](docs/4-device-performance-analysis.md)  
