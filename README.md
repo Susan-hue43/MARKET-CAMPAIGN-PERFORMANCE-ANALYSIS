@@ -55,6 +55,6 @@ The dataset consists of **19 columns** and **9,900 rows**, capturing daily campa
 3. [Geographical Analysis](docs/3-geographical-analysis.md)  
 4. [Device Performance Analysis](docs/4-device-performance-analysis.md)  
 5. [Ad-Level Performance Analysis](docs/5-ad-level-performance-analysis.md)  
-6. [Strategic Recommendations for Future Campaigns](7docs/-strategic-recommendations-for-future-campaigns.md)  
-7. [Key Takeaways for Marketing Optimization](docs/8-key-takeaways-for-marketing-optimization.md)
+6. [Strategic Recommendations for Future Campaigns](docs/6-strategic-recommendations-for-future-campaigns.md)  
+7. [Key Takeaways for Marketing Optimization](docs/7-key-takeaways-for-marketing-optimization.md)
 
