@@ -1,6 +1,6 @@
 ## Device Performance Analysis
 ### 1. Ad Performances Across Different Devices **(Mobile vs. Desktop)**
-![image](https://github.com/user-attachments/assets/7c868e6f-0339-4e64-b78d-164eb17be71c)
+![image](https://github.com/user-attachments/assets/32fc27cc-e5a2-4afa-af95-ced8eabb83d6)
 
 #### Revenue and Profit:
 
