@@ -16,7 +16,7 @@ Based on the analysis of engagement rates, conversion rates, and financial perfo
 While all cities performed well in converting engagements into purchases, Manchester’s higher conversion rate stands out, indicating more successful targeting or ad effectiveness in that area.
 
 ### 3. Revenue and Profit Analysis
-![image](https://github.com/user-attachments/assets/e51e7a1e-2156-4f50-8f28-56bf7fd18de0)
+![image](https://github.com/user-attachments/assets/031a3ac2-6565-41b1-b018-3ce45d3a7a34)
 
 * **Manchester** generated the **highest revenue of $649,669.87** and **profit of $592,624.87**, showing that it not only had strong engagement but also translated this into **the highest financial performance.**
 * **Birmingham** generated **$550,018.96 in revenue** and **$510,561.96 in profit**, performing slightly below Manchester but still **demonstrating a solid contribution to the overall revenue and profit.**
