@@ -1,5 +1,7 @@
 ## Device Performance Analysis
 ### 1. Ad Performances Across Different Devices **(Mobile vs. Desktop)**
+![image](https://github.com/user-attachments/assets/7c868e6f-0339-4e64-b78d-164eb17be71c)
+
 #### Revenue and Profit:
 
 * **Collection Ad:**
@@ -26,6 +28,8 @@
 * The **Desktop** ads provided better **returns on investment in both ads**, indicating a **more cost-effective approach.**
 
 ### 2. Device Type with the Highest Conversion Rates.
+![image](https://github.com/user-attachments/assets/0bdf8444-c04f-48d0-84ed-a0ca465ac0ac)
+
 * **Desktop** led in **conversion rates**, achieving **52.94%**, while **Mobile** had a rate of **47.06%.**
 * This confirms that while **mobile ads** generated **more engagement, Desktop ads** were **more effective** at converting those interactions into actual purchases.
 
