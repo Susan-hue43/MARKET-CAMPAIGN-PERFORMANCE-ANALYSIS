@@ -1,4 +1,7 @@
 # MARKET CAMPAIGN PERFORMANCE ANALYSIS
+![20250513_1618_Colorful Campaign Analysis_simple_compose_01jv4wmfzaevfacwqr84j5wvs4](https://github.com/user-attachments/assets/445113f7-319e-494b-8aa4-a71255209121)
+*photo by sora*
+
 ## Introduction
 In today’s digital-first marketing landscape, understanding campaign performance across platforms is essential for maximizing **return on investment** (**ROI**) and driving business growth. This project focuses on analyzing marketing campaign performance for a company running multiple digital campaigns across ***Facebook, Instagram, and Pinterest*** to promote its products. The dataset contains detailed daily performance data for each campaign, including impressions, clicks, spend, conversions, and engagement metrics such as likes, shares, and comments. The goal is to assess campaign effectiveness across **channels, cities, and devices**, and to calculate the **return on investment (ROI)** for each campaign.
 
