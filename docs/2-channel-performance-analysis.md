@@ -33,6 +33,8 @@ The **Pinterest channel** achieved the **highest ROI of 2151%**, followed by **I
 While Instagram and Facebook drove more conversions, **Pinterest's higher ROI** suggests that it was particularly **effective at converting fewer interactions into purchases.**
 
 **Engagements (Likes, Shares, and Comments)** Across Different Channels.
+![image](https://github.com/user-attachments/assets/b0c8fb01-4b99-42df-93bb-9248fafd99f9)
+
 * **Facebook** generated the **most engagement**, with **220,411 likes**, **49,981 shares**, and **25,948 comments**. This shows that **Facebook’s ads were highly engaging and prompted a significant amount of interaction.**
 * **Instagram** led in **comments** with **30,099**, and also garnered **214,675 likes** and **35,507 shares**, demonstrating that it was a **strong platform for fostering user engagement, particularly in driving discussions.**
 * **Pinterest** had **lower** engagement figures **173,399 likes**, **35,027 shares**, and **16,692 comments**, but its high ROI suggests that it successfully turned these engagements into profitable conversions.
@@ -45,8 +47,8 @@ While Instagram and Facebook drove more conversions, **Pinterest's higher ROI** 
 * **Facebook** generated **$412,225.78** in **revenue** and **$340,640.78 in profit**, making it the **lowest performer in terms of revenue and profit**, yet still contributing positively to the overall campaign results.
 
 ## Key Takeaways:
-**Pinterest** stands out as the most efficient channel, providing the highest ROI and proving that lower spend can still lead to impressive returns.
-**Instagram** generated the highest revenue and profit, making it a key performer for the campaigns.
-**Facebook**, while having the highest number of impressions and clicks, delivered lower ROI and profit, suggesting that its effectiveness could be improved in terms of conversion efficiency.
+**Pinterest** stands out as the **most efficient channel**, providing the **highest ROI** and proving that lower spend can still lead to impressive returns.
+**Instagram** generated the **highest revenue and profit**, making it a **key performer** for the campaigns.
+**Facebook**, while having the **highest number of impressions and clicks**, delivered **lower ROI and profit**, suggesting that **its effectiveness could be improved in terms of conversion efficiency.**
 
 ---
