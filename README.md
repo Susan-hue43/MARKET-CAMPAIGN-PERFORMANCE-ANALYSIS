@@ -33,21 +33,35 @@ By conducting this analysis, we aim to:
 
 The dataset consists of **19 columns** and **9,900 rows**, capturing daily campaign-level performance. Key variables include:
 
-* **Campaign**: Name of the marketing campaign.
-* **Date**: Date of daily performance tracking.
-* **City/Location**: Targeted cities.
-* **Latitude / Longitude**: Geographic coordinates of the cities.
-* **Channel**: Platform where the ad was displayed (Facebook, Instagram, Pinterest).
-* **Device**: Type of device used to view the ad.
-* **Ad**: Creative asset used within the campaign.
-* **Impressions**: Number of times an ad was displayed.
-* **CTR (%)**: Click-through rate (percentage of impressions that resulted in clicks).
-* **Clicks**: Number of times the ad was clicked.
-* **Daily Average CPC**: Average cost per click per day.
-* **Spend (GBP)**: Daily ad spending in GBP.
-* **Conversions**: Number of purchases attributed to the ad.
-* **Total Conversion Value (GBP)**: Revenue generated from conversions per ad.
-* **Likes / Shares / Comments**: Engagement metrics per ad (shares include Pinterest pins).
+
+| **Column Name**                  | **Description**                                                                 |
+| -------------------------------- | ------------------------------------------------------------------------------- |
+| **Campaign**                     | Name of the marketing campaign.                                                 |
+| **Date**                         | Date of daily performance tracking.                                             |
+| **City/Location**                | Targeted cities for the campaign.                                               |
+| **Latitude / Longitude**         | Geographic coordinates of the cities.                                           |
+| **Channel**                      | Platform where the ad was displayed (Facebook, Instagram, Pinterest).           |
+| **Device**                       | Type of device used to view the ad.                                             |
+| **Ad**                           | Creative asset used within the campaign.                                        |
+| **Impressions**                  | Number of times an ad was displayed.                                            |
+| **CTR (%)**                      | Click-through rate: percentage of impressions that resulted in clicks.          |
+| **Clicks**                       | Number of times the ad was clicked.                                             |
+| **Daily Average CPC**            | Average cost per click per day.                                                 |
+| **Spend (GBP)**                  | Daily ad spending in GBP.                                                       |
+| **Conversions**                  | Number of purchases attributed to the ad.                                       |
+| **Total Conversion Value (GBP)** | Revenue generated from conversions per ad.                                      |
+| **Likes / Shares / Comments**    | Engagement metrics per ad (shares include Pinterest pins, likes, and comments). |
+
+---
+
+## **Tools Used**
+
+The analysis and visualizations in this project were conducted using **Microsoft Excel**. Excel was used for:
+
+* **Data cleaning and transformation**.
+* **Pivot table analysis**.
+* **Calculating key performance metrics** (e.g., ROI, CTR, CPC).
+* **Creating visual charts** to track campaign performance across channels, cities, and devices.
 
 ---
 
