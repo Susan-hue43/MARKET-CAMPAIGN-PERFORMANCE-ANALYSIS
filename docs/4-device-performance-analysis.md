@@ -17,6 +17,8 @@
     * **Discount Ad:** **11,245** conversions for **Desktop** vs. **9,938** conversions for **Mobile.**
 
 #### Clicks and Impressions:
+![image](https://github.com/user-attachments/assets/99be9266-8c87-446f-881a-23b512e4cad8)
+
 * **Mobile ads** had **higher interaction metrics:**
     * **Collection Ad:** **Mobile** generated **53,894 clicks** and **4,720,615 impressions**, compared to **Desktop's 52,066 clicks** and **3,205,712 impressions.**
     * **Discount Ad:** **Mobile** generated **38,872 clicks** and **4,124,674 impressions**, compared to **Desktop's 36,766 clicks** and **2,594,448 impressions**. This suggests that **mobile ads reached a broader audience and received more engagement**.
@@ -31,7 +33,7 @@
 ![image](https://github.com/user-attachments/assets/0bdf8444-c04f-48d0-84ed-a0ca465ac0ac)
 
 * **Desktop** led in **conversion rates**, achieving **52.94%**, while **Mobile** had a rate of **47.06%.**
-* This confirms that while **mobile ads** generated **more engagement, Desktop ads** were **more effective** at converting those interactions into actual purchases.
+* This confirms that while **mobile ads** generated **more engagement, Desktop ads** were **more effective** at **converting**those **interactions into actual purchases.**
 
 ## Key Takeaways:
 * **Desktop ads** outperformed **Mobile ads** in terms of revenue, profit, conversions, and ROI, indicating that they are **more effective in driving sales and delivering better financial results.**
